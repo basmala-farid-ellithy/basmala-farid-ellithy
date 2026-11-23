@@ -19,12 +19,12 @@ National Bank of Egypt, supporting business intelligence and database administra
 Public demonstration projects built on open datasets - the same workflow I use for MIS
 reporting at work:
 
-- **[retail-sales-analysis-python](https://github.com/USERNAME/retail-sales-analysis-python)** -
+- **[retail-sales-analysis-python](https://github.com/basmala-farid-ellithy/retail-sales-analysis-python)** -
   pandas EDA of 1,000 retail transactions: revenue trends, product-line and branch performance,
   payment behavior, with charts.
-- **[sql-business-insights](https://github.com/USERNAME/sql-business-insights)** - business questions
+- **[sql-business-insights](https://github.com/basmala-farid-ellithy/sql-business-insights)** - business questions
   answered in SQL (SQLite): revenue trends, customer segments, branch performance, payment mix.
-- **[mis-sales-reporting-excel](https://github.com/USERNAME/mis-sales-reporting-excel)** - an MIS-style
+- **[mis-sales-reporting-excel](https://github.com/basmala-farid-ellithy/mis-sales-reporting-excel)** - an MIS-style
   Excel reporting pack (KPI summary, monthly trend, product lines, branch and payment mix) generated
   reproducibly with pandas + openpyxl.
 
