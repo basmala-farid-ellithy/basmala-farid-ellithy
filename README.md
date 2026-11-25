@@ -27,6 +27,8 @@ reporting at work:
 - **[mis-sales-reporting-excel](https://github.com/basmala-farid-ellithy/mis-sales-reporting-excel)** - an MIS-style
   Excel reporting pack (KPI summary, monthly trend, product lines, branch and payment mix) generated
   reproducibly with pandas + openpyxl.
+- **[telco-churn-analysis](https://github.com/basmala-farid-ellithy/telco-churn-analysis)** - customer churn analysis in Python (pandas, matplotlib) on 7,000+ telecom customers: contract type, tenure and payment method as churn drivers, with recommendations.
+- **[chinook-sql-analytics](https://github.com/basmala-farid-ellithy/chinook-sql-analytics)** - six business questions in SQL using CTEs and window functions (LAG, RANK, NTILE): revenue growth, top markets and genres, customer lifetime value.
 
 ## Experience snapshot
 - **MIS Specialist** - Mix Channel, Cairo (2026-present): MIS functions, SQL/Excel analysis, Power BI KPI dashboards
